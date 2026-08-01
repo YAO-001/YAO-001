@@ -14,7 +14,7 @@
 
 <p align="center">
   I’m exploring how large language models <strong>learn, reason, and act</strong>.<br>
-  我正在探索 AI Agent、LLM 后训练与 MCP 生态，并用 Python 把想法变成实验。
+  我正在探索 AI Agent、LLM 后训练与 MCP 生态，并通过 Python 与开源贡献把想法变成实验。
 </p>
 
 ## Current focus
@@ -43,6 +43,15 @@
   </tr>
 </table>
 
+## Recent open-source work
+
+| Project | Contribution |
+| :-- | :-- |
+| [AReaL](https://github.com/areal-project/AReaL) | [Harden v2 teardown after TMS offload · #1571](https://github.com/areal-project/AReaL/pull/1571) |
+| [TRL](https://github.com/huggingface/trl) | [Add activation offloading to GRPO and RLOO · #6615](https://github.com/huggingface/trl/pull/6615) |
+| [VERL](https://github.com/verl-project/verl) | [Preserve routed experts across agent turns · #7222](https://github.com/verl-project/verl/pull/7222) |
+| [FastMCP](https://github.com/PrefectHQ/fastmcp) | [Fix CodeMode tool error propagation · #4704](https://github.com/PrefectHQ/fastmcp/pull/4704) |
+
 ## Toolbox & interests
 
 <p>
@@ -55,7 +64,7 @@
   <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111827?style=flat-square">
 </p>
 
-> My public forks are a working library of projects I’m reading, reproducing, and learning from. Original experiments and notes will appear here as they mature.
+> My forks are working copies for reading and experiments; the contribution links above are the clearest record of what I’m changing and investigating upstream.
 
 <br>
 
