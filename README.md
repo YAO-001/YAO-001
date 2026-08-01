@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="YAO — AI agents, LLM post-training, and MCP" src="./assets/hero-light.svg" width="100%">
-</picture>
+<h1 align="center">YAO / 001</h1>
+
+<p align="center"><strong>AI Agents · LLM Post-training · MCP</strong></p>
 
 <p align="center">
   <img alt="Focus: AI Agents" src="https://img.shields.io/badge/Focus-AI_Agents-7C3AED?style=flat-square">
