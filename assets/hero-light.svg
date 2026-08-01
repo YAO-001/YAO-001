@@ -1,0 +1,90 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">YAO — exploring intelligent systems</title>
+  <desc id="desc">Light technology-themed banner for YAO's GitHub profile</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.52" stop-color="#F3F6FF"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D28D9"/>
+      <stop offset="0.52" stop-color="#0284C7"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="card" x1="760" y1="50" x2="1130" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(1030 42) rotate(120) scale(300 460)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(510 360) rotate(-88) scale(190 420)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#0284C7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#475569" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="shadow" x="700" y="10" width="490" height="350" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#64748B" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#CBD5E1"/>
+
+  <g opacity="0.62">
+    <path d="M615 66L688 107L663 188L726 236" stroke="#0284C7" stroke-opacity="0.32" stroke-width="1.5"/>
+    <path d="M628 286L690 251L726 236L758 258" stroke="#7C3AED" stroke-opacity="0.3" stroke-width="1.5"/>
+    <circle cx="615" cy="66" r="4" fill="#0284C7"/>
+    <circle cx="663" cy="188" r="5" fill="#059669"/>
+    <circle cx="726" cy="236" r="4" fill="#7C3AED"/>
+    <circle cx="628" cy="286" r="3" fill="#0284C7"/>
+  </g>
+
+  <rect x="72" y="48" width="218" height="34" rx="17" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <circle cx="91" cy="65" r="5" fill="#059669"/>
+  <text x="106" y="70" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.2">EXPLORING INTELLIGENCE</text>
+
+  <text x="70" y="174" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">YAO / 001</text>
+  <text x="74" y="218" fill="#1E293B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="3">AI AGENTS  •  LLM POST-TRAINING  •  MCP</text>
+  <text x="74" y="257" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Learning how models reason, use tools, and improve.</text>
+  <path d="M74 286H548" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="760" y="50" width="370" height="260" rx="20" fill="url(#card)" stroke="#CBD5E1"/>
+    <path d="M760 98H1130" stroke="#E2E8F0"/>
+    <circle cx="787" cy="74" r="6" fill="#FB7185"/>
+    <circle cx="808" cy="74" r="6" fill="#FBBF24"/>
+    <circle cx="829" cy="74" r="6" fill="#34D399"/>
+    <text x="865" y="79" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">yao@lab: ~/ideas</text>
+
+    <text x="792" y="137" fill="#059669" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">❯</text>
+    <text x="816" y="137" fill="#1E293B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">agent.run(</text>
+    <text x="909" y="137" fill="#6D28D9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">curiosity</text>
+    <text x="1000" y="137" fill="#1E293B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">)</text>
+
+    <text x="792" y="181" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">01</text>
+    <text x="826" y="181" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">reason</text>
+    <path d="M892 176H930" stroke="#94A3B8" stroke-width="1.5"/>
+    <path d="M925 171L931 176L925 181" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+    <text x="942" y="181" fill="#6D28D9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">act</text>
+    <path d="M975 176H1013" stroke="#94A3B8" stroke-width="1.5"/>
+    <path d="M1008 171L1014 176L1008 181" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+    <text x="1025" y="181" fill="#059669" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">learn</text>
+
+    <text x="792" y="225" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">02</text>
+    <rect x="826" y="211" width="170" height="18" rx="4" fill="#E2E8F0"/>
+    <rect x="826" y="211" width="124" height="18" rx="4" fill="url(#accent)" opacity="0.82"/>
+    <text x="1009" y="225" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">iterating</text>
+
+    <rect x="792" y="254" width="307" height="34" rx="8" fill="#F8FAFC" stroke="#E2E8F0"/>
+    <circle cx="812" cy="271" r="4" fill="#059669"/>
+    <text x="826" y="276" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">status: learning in public</text>
+  </g>
+</svg>
