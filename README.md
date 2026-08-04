@@ -10,6 +10,16 @@ Working on reliable **agent systems**, **LLM post-training infrastructure**, and
 - **[AReaL](https://github.com/areal-project/AReaL)** · [open draft PR #1571: TMS teardown](https://github.com/areal-project/AReaL/pull/1571) — Proposed race-safe teardown after TMS offload, covering idempotent FSDP cleanup, ordered worker shutdown, and verified process-group termination.
 - **[TRL](https://github.com/huggingface/trl)** · [open draft PR #6615: activation offloading](https://github.com/huggingface/trl/pull/6615) — Proposed opt-in activation offloading for GRPO and RLOO trainers, with step-scoped lifecycle management, tests, and documentation.
 
+## Recent upstream PRs
+
+<!-- recent-prs:start -->
+- **OPEN** · [huggingface/trl#6620](https://github.com/huggingface/trl/pull/6620) — Add OPO length-weighted reward baseline to GRPO
+- **DRAFT** · [huggingface/trl#6615](https://github.com/huggingface/trl/pull/6615) — Add activation offloading to GRPO and RLOO
+- **DRAFT** · [areal-project/AReaL#1571](https://github.com/areal-project/AReaL/pull/1571) — fix: harden v2 teardown after TMS offload
+- **OPEN** · [verl-project/verl#7217](https://github.com/verl-project/verl/pull/7217) — fix(agent\_loop): propagate validation metadata to async rewards
+- **OPEN** · [verl-project/verl#7215](https://github.com/verl-project/verl/pull/7215) — \[BREAKING\]\[fsdp, trainer\] fix: apply selective weight decay
+<!-- recent-prs:end -->
+
 ## Current questions
 
 - How should agent runtimes recover from tool, state, and process failures?
