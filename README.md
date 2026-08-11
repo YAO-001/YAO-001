@@ -13,11 +13,11 @@ Working on reliable **agent systems**, **LLM post-training infrastructure**, and
 ## Recent upstream PRs
 
 <!-- recent-prs:start -->
+- **OPEN** · [alibaba/open-code-review#848](https://github.com/alibaba/open-code-review/pull/848) — fix(viewer): show running status for active sessions
 - **OPEN** · [areal-project/AReaL#1578](https://github.com/areal-project/AReaL/pull/1578) — fix(infra): preserve LD\_PRELOAD in local launchers
 - **OPEN** · [huggingface/trl#6620](https://github.com/huggingface/trl/pull/6620) — Add OPO length-weighted reward baseline to GRPO
 - **DRAFT** · [huggingface/trl#6615](https://github.com/huggingface/trl/pull/6615) — Add activation offloading to GRPO and RLOO
 - **DRAFT** · [areal-project/AReaL#1571](https://github.com/areal-project/AReaL/pull/1571) — fix: harden v2 teardown after TMS offload
-- **OPEN** · [verl-project/verl#7217](https://github.com/verl-project/verl/pull/7217) — fix(agent\_loop): propagate validation metadata to async rewards
 <!-- recent-prs:end -->
 
 ## Current questions
