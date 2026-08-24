@@ -13,7 +13,7 @@ Working on reliable **agent systems**, **LLM post-training infrastructure**, and
 ## Recent upstream PRs
 
 <!-- recent-prs:start -->
-- **OPEN** · [inclusionAI/AReno#473](https://github.com/inclusionAI/AReno/pull/473) — test: add native attention GPU equivalence checks
+- **MERGED** · [inclusionAI/AReno#473](https://github.com/inclusionAI/AReno/pull/473) — test: add native attention GPU equivalence checks
 - **OPEN** · [inclusionAI/AReno#472](https://github.com/inclusionAI/AReno/pull/472) — docs(agentic): define trajectory observability contract
 - **OPEN** · [inclusionAI/AReno#471](https://github.com/inclusionAI/AReno/pull/471) — build: adopt file-backed dynamic package version
 - **OPEN** · [alibaba/open-code-review#848](https://github.com/alibaba/open-code-review/pull/848) — fix(viewer): show running status for active sessions
