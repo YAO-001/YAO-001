@@ -29,7 +29,7 @@ I work on **embodied intelligence and world models**, **robot learning and reinf
 - **MERGED** · [inclusionAI/AReno#473](https://github.com/inclusionAI/AReno/pull/473) — test: add native attention GPU equivalence checks
 - **OPEN** · [inclusionAI/AReno#472](https://github.com/inclusionAI/AReno/pull/472) — docs(agentic): define trajectory observability contract
 - **OPEN** · [inclusionAI/AReno#471](https://github.com/inclusionAI/AReno/pull/471) — build: adopt file-backed dynamic package version
-- **OPEN** · [alibaba/open-code-review#848](https://github.com/alibaba/open-code-review/pull/848) — fix(viewer): show running status for active sessions
+- **MERGED** · [areal-project/AReaL#1578](https://github.com/areal-project/AReaL/pull/1578) — fix(infra): preserve LD\_PRELOAD in local launchers
 <!-- recent-prs:end -->
 
 ## Current questions
